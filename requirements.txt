@@ -1,0 +1,9 @@
+langchain
+langchain_community
+pinecone-client 
+voyageai 
+anthropic 
+fastapi 
+uvicorn
+bs4
+python-dotenv
