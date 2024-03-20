@@ -31,7 +31,7 @@ python main.py
 ## Making requests to the chatbot
 
 ```bash
-curl -X POST -H "Content-Type: application/json" -d '{"query": "What is AI alignment?"}' http://localhost:8000/answer
+curl -X POST -H "Content-Type: application/json" -d '{"query": "What is AI alignment?"}' http://localhost:8000/chat
 ```
 
 ## Updating the vector database with new articles
